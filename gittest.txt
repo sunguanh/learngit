@@ -1,0 +1,1 @@
+SELECT * FROM XY_JKINFO WHERE lst_dt=201811 AND jk_typ='flw_use_0_num'
